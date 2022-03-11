@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\APP-cadastro-serie-DIO\\APP.cadastroserie.DIO.csproj": {}
+    "C:\\workspace\\APP_cadastroserie_DIO\\APP.cadastroserie.DIO.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\APP-cadastro-serie-DIO\\APP.cadastroserie.DIO.csproj": {
+    "C:\\workspace\\APP_cadastroserie_DIO\\APP.cadastroserie.DIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\APP-cadastro-serie-DIO\\APP.cadastroserie.DIO.csproj",
+        "projectUniqueName": "C:\\workspace\\APP_cadastroserie_DIO\\APP.cadastroserie.DIO.csproj",
         "projectName": "APP.cadastroserie.DIO",
-        "projectPath": "C:\\workspace\\APP-cadastro-serie-DIO\\APP.cadastroserie.DIO.csproj",
+        "projectPath": "C:\\workspace\\APP_cadastroserie_DIO\\APP.cadastroserie.DIO.csproj",
         "packagesPath": "C:\\Users\\vaane\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\APP-cadastro-serie-DIO\\obj\\",
+        "outputPath": "C:\\workspace\\APP_cadastroserie_DIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vaane\\AppData\\Roaming\\NuGet\\NuGet.Config"
