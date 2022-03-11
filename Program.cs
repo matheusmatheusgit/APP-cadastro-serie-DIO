@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace APP-cadastro-serie-DIO
+namespace APP.cadastroserie.DIO
 {
     class Program
     {
@@ -84,7 +84,8 @@ namespace APP-cadastro-serie-DIO
 			Console.Write("Digite a Descrição da Série: ");
 			string entradaDescricao = Console.ReadLine();
 
-			Serie atualizaSerie = new Serie(id: indiceSerie,
+			Serie atualizaSerie = new Serie
+										(id: indiceSerie,
 										genero: (Genero)entradaGenero,
 										titulo: entradaTitulo,
 										ano: entradaAno,

@@ -1,6 +1,6 @@
 using System;
 
-namespace APP-cadastro-serie-DIO
+namespace APP.cadastroserie.DIO
 {
     public class Serie : EntidadeBase
     {

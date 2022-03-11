@@ -1,0 +1,15 @@
+C:\workspace\APP-cadastro-serie-DIO\bin\Debug\netcoreapp6.0\APP.cadastroserie.DIO.exe
+C:\workspace\APP-cadastro-serie-DIO\bin\Debug\netcoreapp6.0\APP.cadastroserie.DIO.deps.json
+C:\workspace\APP-cadastro-serie-DIO\bin\Debug\netcoreapp6.0\APP.cadastroserie.DIO.runtimeconfig.json
+C:\workspace\APP-cadastro-serie-DIO\bin\Debug\netcoreapp6.0\APP.cadastroserie.DIO.dll
+C:\workspace\APP-cadastro-serie-DIO\bin\Debug\netcoreapp6.0\APP.cadastroserie.DIO.pdb
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.csproj.AssemblyReference.cache
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.AssemblyInfoInputs.cache
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.AssemblyInfo.cs
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.csproj.CoreCompileInputs.cache
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.dll
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\refint\APP.cadastroserie.DIO.dll
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.pdb
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\APP.cadastroserie.DIO.genruntimeconfig.cache
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp6.0\ref\APP.cadastroserie.DIO.dll

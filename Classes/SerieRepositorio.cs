@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using APP-cadastro-serie-DIO.Interfaces;
+using APP.cadastroserie.DIO.Interfaces;
 
-namespace APP-cadastro-serie-DIO
+namespace APP.cadastroserie.DIO
 {
 	public class SerieRepositorio : IRepositorio<Serie>
 	{
