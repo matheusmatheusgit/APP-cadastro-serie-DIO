@@ -1,0 +1,5 @@
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp3.1\APP-cadastro-serie-DIO.csproj.AssemblyReference.cache
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp3.1\APP-cadastro-serie-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp3.1\APP-cadastro-serie-DIO.AssemblyInfoInputs.cache
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp3.1\APP-cadastro-serie-DIO.AssemblyInfo.cs
+C:\workspace\APP-cadastro-serie-DIO\obj\Debug\netcoreapp3.1\APP-cadastro-serie-DIO.csproj.CoreCompileInputs.cache
